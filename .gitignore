@@ -1,1 +1,13 @@
-/*.iml
+build/
+out/
+logs/
+
+.gradle
+.idea
+.qodana
+
+.idea-sandbox
+.idea-sandbox_
+
+*.iml
+
